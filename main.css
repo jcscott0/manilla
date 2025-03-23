@@ -1,0 +1,62 @@
+html, body {
+	margin: 0;
+	background-color: #010101;
+}
+
+#header {
+	padding: 2px 2px 2px 2px;
+	margin: 20px 30px 0px 30px;
+	background-color: tan;
+	color: #010101;
+	border-radius: 10px;
+	border: 1px solid #808080;
+	box-shadow: 0px 0px 20px #808080;
+}
+
+#navbar {
+	padding: 1px 1px 1px 1px;
+	margin: 0px 0px 0px 0px;
+	background-color: tan;
+	color: #010101;
+}
+
+#navbar a {
+	color: #010101;
+	text-decoration: none;
+}
+
+#navbar a:hover {
+	color: #505050;
+	cursor: pointer;
+}
+
+#wlcm {
+	padding: 10px 10px 10px 10px;
+	margin: 50px 100px 50px 100px;
+	background-color: tan;
+	color: #010101;
+	border-radius: 5px;
+	box-shadow: 0px 0px 20px #808080;
+}
+
+#dyat {
+	padding: 10px 10px 10px 10px;
+	margin: 50px 100px 50px 100px;
+	background-color: tan;
+	color: #010101;
+	border-radius: 5px;
+	box-shadow: 0px 0px 20px #808080;
+}
+
+#catac {
+	padding: 10px 10px 10px 10px;
+	margin: 50px 100px 50px 100px;
+	background-color: tan;
+	color: #010101;
+	border-radius: 5px;
+	box-shadow: 0px 0px 20px #808080;
+}
+
+@media (max-width: 360px) {
+	
+}
